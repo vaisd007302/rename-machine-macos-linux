@@ -1,5 +1,3 @@
-#!/bin/bash
-
 re='^[0-9]*[.][ ]'
 for f in *; do
   if [[ $f =~ $re ]]; then
