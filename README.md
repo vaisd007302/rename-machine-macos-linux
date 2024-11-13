@@ -1,4 +1,4 @@
-# rename-machine-macos
+# rename-machine-macos-linux
 Rename your files from a specified directory if there are numbers, full stops and spaces before them that you would like to remove. Only works on MacOS and linux (needs Bash terminal).
 # **How to use**
 Download the file **rename.sh** by opening it, and clicking the download icon in the top rights corner.
