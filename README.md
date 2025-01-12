@@ -42,7 +42,7 @@ If your system is not using Bash as the default shell, you can switch to it:
    ```bash
    chsh -s /bin/bash
    ```
-
+   Enter your password if prompted.
 ---
 
 ## **Credits**
