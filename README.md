@@ -10,7 +10,7 @@ A simple script to rename files in a specified directory by removing numbers, fu
    - Download the file **`rename.sh`** by clicking the download icon in the top right corner of its page.
 
 2. **Open Terminal:**
-   - Navigate to the directory where you downloaded the script or to the directory containing the files you want to rename.
+   - Navigate to the directory containing the files you want to rename and copy the script into it.
 
 3. **Change Directory:**
    - Use the `cd` command to navigate to the target directory. For example:
