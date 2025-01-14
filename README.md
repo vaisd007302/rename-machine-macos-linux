@@ -7,7 +7,7 @@ A simple script to rename files in a specified directory by removing numbers, fu
 ## **How to Use**
 
 1. **Download the Script:**
-   - Download the file **`rename.sh`** by clicking the download icon in the top right corner of its page.
+   - Download the file [**`rename.sh`**](https://github.com/vaisd007302/rename-machine-macos-linux/releases/download/rename/rename.sh)by clicking the download icon in the top right corner of its page.
 
 2. **Open Terminal:**
    - Navigate to the directory containing the files you want to rename and copy the script into it.
