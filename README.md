@@ -47,7 +47,7 @@ If your system is not using Bash as the default shell, you can switch to it:
 
 ## **Credits**
 
-This script was created by @Vaisd007302.
+This script was created by [@Vaisd007302](https://github.com/vaisd007302).
 
 ---
 
